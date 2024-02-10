@@ -1,5 +1,4 @@
-# Hi there 👋, 
-# I'm Martin Silber - Developer from Germany
+# Hi there 👋, I'm Martin Silber - Developer from Germany
 
 Welcome to my GitHub repository! 
 
@@ -22,7 +21,6 @@ This is a glimpse into my professional world as a developer passionate about cre
 
 ## Projects
 
-- **Project Alpha:** A dynamic e-commerce platform designed for the best shopping experience. [View Project](#)
-- **Project Beta:** A custom CMS solution with enhanced functionality and user engagement. [View Project](#)
+**List will come soon**
 
 Let's connect and explore how we can make the digital world a better place together!
