@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Martin Silber - Developer in Germany 
 
-Welcome to my special GitHub repository! This `README.md` is a glimpse into my professional world as a web developer passionate about creating efficient and innovative web solutions.
+Welcome to my GitHub repository! 
+
+This is a glimpse into my professional world as a developer passionate about creating efficient and innovative solutions.
 
 ## About Me
 
