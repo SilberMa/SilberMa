@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Martin Silber - Developer in Germany 
+# Hi there 👋, 
+# I'm Martin Silber - Developer from Germany
 
 Welcome to my GitHub repository! 
 
